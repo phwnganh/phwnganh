@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Phuong Anh</h1>
 <h3 align="center">Apply for the position of Frontend Developer</h3>
 
-- 🔭 I’m currently working on [OrbitTasks - Task Management Website](https://github.com/phwnganh/task-management-website)
+- 🔭 I’m currently working on [EchoSpark - AI-Powered Foreign Language Pronunciation Practice and Correction WebApp](https://github.com/phwnganh/task-management-website)
 
-- 🌱 I’m currently learning **Flutter, ReactNative, Typescript**
+- 🌱 I’m currently learning **ReactNative, Typescript**
 
 - 💬 Ask me about **ReactJS, Ant design**
 
 - 📫 How to reach me **phwnganh.working2510@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGntXk7t5Q/qEDb0cAwM8IkqOMNcmpNNA/edit?utm_content=DAGntXk7t5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGntXk7t5Q/qEDb0cAwM8IkqOMNcmpNNA/edit?utm_content=DAGntXk7t5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [[https://www.canva.com/design/DAGntXk7t5Q/qEDb0cAwM8IkqOMNcmpNNA/edit?utm_content=DAGntXk7t5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]](https://www.canva.com/design/DAGntXk7t5Q/qEDb0cAwM8IkqOMNcmpNNA/edit?utm_content=DAGntXk7t5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Passionate**
 

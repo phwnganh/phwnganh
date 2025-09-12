@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Phuong Anh</h1>
 <h3 align="center">Apply for the position of Frontend Developer</h3>
 
-- 🔭 I’m currently working on [EchoSpark - AI-Powered Foreign Language Pronunciation Practice and Correction WebApp](https://github.com/phwnganh/task-management-website)
+- 🔭 I’m currently working on [EchoSpark - AI-Powered Foreign Language Pronunciation Practice and Correction WebApp](https://gitlab.com/english-speaking-practice-web-app)
 
 - 🌱 I’m currently learning **ReactNative, Typescript**
 
-- 💬 Ask me about **ReactJS, Ant design**
+- 💬 Ask me about **ReactJS, Javascript**
 
 - 📫 How to reach me **phwnganh.working2510@gmail.com**
 

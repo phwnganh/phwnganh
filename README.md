@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Phuong Anh</h1>
 <h3 align="center">Apply for the position of Frontend Developer</h3>
 
-- 🔭 I’m currently working on [EchoSpark - AI-Powered Foreign Language Pronunciation Practice and Correction WebApp](https://gitlab.com/english-speaking-practice-web-app)
+- 🔭 I’m currently working on [OrbitTasks Upgrade Version](https://github.com/phwnganh/orbittask-v2.git)
 
-- 🌱 I’m currently learning **ReactNative, Typescript**
+- 🌱 I’m currently learning **NextJS**, and learning how to optimize FE architectures and UX Polishment (like Atomic Components, Web Accessibility, and Seo Lighthouse Tools)
 
 - 💬 Ask me about **ReactJS, Javascript**
 
 - 📫 How to reach me **phwnganh.working2510@gmail.com**
 
-- 📄 Know about my experiences [[https://www.canva.com/design/DAGntXk7t5Q/qEDb0cAwM8IkqOMNcmpNNA/edit?utm_content=DAGntXk7t5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]](https://www.canva.com/design/DAGntXk7t5Q/qEDb0cAwM8IkqOMNcmpNNA/edit?utm_content=DAGntXk7t5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAGntXk7t5Q/qEDb0cAwM8IkqOMNcmpNNA/edit?utm_content=DAGntXk7t5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://canva.link/zzc0r39x7ywcz5y)
 
 - ⚡ Fun fact **Passionate**
 
